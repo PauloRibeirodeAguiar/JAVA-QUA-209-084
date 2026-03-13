@@ -1,0 +1,14 @@
+-Lógica de programação
+-Versionamento
+-POO
+-GUI
+-Front End
+*HTML
+*CSS
+*Bootstrep
+*JavaScript
+-DER(Banco de dados relacional - MYSQL)
+-Springboot
+*ORM
+*JPA/Hibernate
+*Thymeleaf
